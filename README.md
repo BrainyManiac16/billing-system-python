@@ -1,5 +1,5 @@
 # billing-system-python
-A no-cost billing system that integrates Python and MySQL
+A no-cost billing system integrating Python and MySQL
 
 Note: You must have Python and MySQL installed. If not, install it first.
 1. Download the 'main.py' file
